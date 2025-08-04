@@ -38,7 +38,7 @@ All primary and foreign keys are properly defined to maintain referential integr
 
 | File Name        | Description                             |
 |------------------|-----------------------------------------|
-| `schema.sql`     | SQL script to create the database schema |
+| `flight.sql`     | SQL script to create the database schema |
 | `er_diagram.png` | ER Diagram of the flight database       |
 | `README.md`      | This documentation file                 |
 
